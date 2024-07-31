@@ -1,3 +1,9 @@
+# 下载
+
+https://github.com/andandroidor/ourtv/releases/tag/2.8.6
+
+与央视频不兼容
+
 # 安装
 
 -   U盘安装
@@ -7,5 +13,7 @@
 # Thanks
 
 @my-tv https://github.com/lizongying/my-tv
+
 @央视频 
+
 @凤凰新闻
