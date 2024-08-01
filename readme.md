@@ -7,7 +7,7 @@
 
 https://github.com/andandroidor/ourtv/releases/tag/2.8.6
 
-与央视频不兼容
+与央视频不兼容，建议关闭各应用市场的自动更新。可能会被央视频覆盖安装。
 
 # 安装
 
