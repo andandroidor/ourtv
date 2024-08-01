@@ -5,7 +5,7 @@
 
 # 下载
 
-https://github.com/andandroidor/ourtv/releases/tag/2.8.6
+https://github.com/andandroidor/ourtv/releases/
 
 xxxx_tv.apk 电视版
 
