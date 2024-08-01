@@ -12,8 +12,9 @@ https://github.com/andandroidor/ourtv/releases/tag/2.8.6
 # 安装
 
 -   U盘安装
--   电视可以启用开发者调试，也可以通过ADB进行安装
--   adb  install  -r  -f   xxx.apk
+-   电视如果启用开发者调试，也可以通过ADB命令进行安装：
+  
+   adb  install  -r  -f   xxx.apk
 
 # Thanks
 
