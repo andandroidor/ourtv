@@ -39,6 +39,9 @@ xxxx_androidphone.apk 安卓手机版
 
 本项目使用的部分代码、图片、文字等资源来源于网络，如有侵权，请联系删除。
 
+# TG
+
+https://t.me/+z1BOPITtAmI4ZWZl
 
 # 感谢您的支持😘😘😘
 
