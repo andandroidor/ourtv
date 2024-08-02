@@ -7,9 +7,9 @@
 
 https://github.com/andandroidor/ourtv/releases/
 
-xxxx_tv.apk 电视版
+xxxx_androidtv.apk 电视版
 
-xxxx_android.apk 安卓手机版
+xxxx_androidphone.apk 安卓手机版
 
 与央视频不兼容，建议关闭各应用市场的自动更新。可能会被央视频覆盖安装。
 
