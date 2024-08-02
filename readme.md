@@ -31,13 +31,6 @@ xxxx_android.apk 安卓手机版
 @凤凰新闻
 
 
-# 捐赠开发者
-
-感谢您的支持
-
-![qr](./qr.png)
-
-
 # 声明
 
 本项目仅供学习研究，禁止用于商业用途，请于下载二十四小时内删除。
@@ -45,3 +38,16 @@ xxxx_android.apk 安卓手机版
 本项目可能随时终止，请大家谨慎使用，建议使用官方渠道进行观看。
 
 本项目使用的部分代码、图片、文字等资源来源于网络，如有侵权，请联系删除。
+
+
+# To有钱的大哥大姐，感谢您捧个钱场
+
+感谢您的支持,😘😘😘
+
+![qr](./qr.png)
+
+# To暂时拮据的大哥大姐，感谢您的Star
+
+感谢您的支持,😘😘😘
+
+[![Star History Chart](https://api.star-history.com/svg?repos=andandroidor/ourtv&type=Date)](https://star-history.com/#andandroidor/ourtv&Date)
