@@ -39,14 +39,29 @@ xxxx_android.apk 安卓手机版
 
 本项目使用的部分代码、图片、文字等资源来源于网络，如有侵权，请联系删除。
 
+# 安全
 
-# To有钱的大哥大姐，感谢您捧个钱场
+回应一些傻逼的污蔑，觉得没有源码(恕我直言你有源码也编译不过)就不安全，特此声明，本软件绝对安全。
+
+手机版：
+https://www.virscan.org/report/fd6885d656fed7d63c4db84647855330dd7e994bc04750e3edcd82aae7cc7d1f
+![phone](./images/phone_scan.jpg)
+
+
+TV版：
+https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10e58844afbf3f18b
+![tv](./images/tv_scan.jpg)
+
+
+# 支持
+
+### To有钱的大哥大姐，感谢您捧个钱场
 
 感谢您的支持,😘😘😘
 
-![qr](./qr.png)
+![qr](./images/qr.png)
 
-# To暂时拮据的大哥大姐，感谢您的Star
+### To暂时拮据的大哥大姐，感谢您的Star
 
 感谢您的支持,😘😘😘
 
