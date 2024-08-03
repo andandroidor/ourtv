@@ -1,6 +1,6 @@
 # 我们的电视
 
-电视直播软件，安装即可使用
+电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，省去您再费劲巴力的找各种不稳定的直播源了。
 
 
 # 下载
@@ -41,7 +41,7 @@ xxxx_androidphone.apk 安卓手机版
 
 # 安全
 
-回应一些傻逼的污蔑，觉得没有源码(恕我直言你有源码也编译不过)就不安全，特此声明，本软件绝对安全，详见以下全球47家安全厂商的测试报告。
+回应一些xx的污蔑，觉得没有源码就不安全。特此声明，本软件绝对安全，详见以下全球47家安全厂商的测试报告。
 
 手机版：
 https://www.virscan.org/report/fd6885d656fed7d63c4db84647855330dd7e994bc04750e3edcd82aae7cc7d1f
@@ -52,6 +52,8 @@ TV版：
 https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10e58844afbf3f18b
 ![tv](./images/tv_scan.jpg)
 
+(恕我直言你有源码也编译不过)
+
 # 联系
 
 电报群： https://t.me/+z1BOPITtAmI4ZWZl
@@ -59,14 +61,10 @@ https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10
 
 # 支持
 
-### To有钱的大哥大姐，感谢您捧个钱场
-
-感谢您的支持,😘😘😘
+### To有钱的大哥大姐，感谢您捧个钱场 😘😘😘
 
 ![qr](./images/qr.png)
 
-### To暂时拮据的大哥大姐，感谢您的Star
-
-感谢您的支持,😘😘😘
+### To还没发财的大哥大姐，感谢您点的Star 😘😘😘
 
 [![Star History Chart](https://api.star-history.com/svg?repos=andandroidor/ourtv&type=Date)](https://star-history.com/#andandroidor/ourtv&Date)
