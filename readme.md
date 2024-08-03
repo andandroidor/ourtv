@@ -61,10 +61,10 @@ https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10
 
 # 支持
 
-### To有钱的大哥大姐，感谢您捧个钱场 😘😘😘
+### 感谢您的支持 😘😘😘
 
 ![qr](./images/qr.png)
 
-### To还没发财的大哥大姐，感谢您点的Star 😘😘😘
+### 感谢您的Star 😘😘😘
 
 [![Star History Chart](https://api.star-history.com/svg?repos=andandroidor/ourtv&type=Date)](https://star-history.com/#andandroidor/ourtv&Date)
