@@ -52,7 +52,6 @@ TV版：
 https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10e58844afbf3f18b
 ![tv](./images/tv_scan.jpg)
 
-(恕我直言你有源码也编译不过)
 
 # 联系
 
