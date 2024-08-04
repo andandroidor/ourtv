@@ -55,7 +55,7 @@ https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10
 
 # 联系
 
-电报群： https://t.me/+z1BOPITtAmI4ZWZl
+电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时间放出。
 
 
 # 支持
