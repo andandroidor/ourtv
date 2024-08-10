@@ -64,6 +64,8 @@ https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10
 
 ### 感谢您的支持 😘😘😘
 
+大龄被裁程序员在线乞讨，感谢各位老板赏口饭吃😭
+
 ![qr](./images/qr.png)
 
 ### 感谢您的Star 😘😘😘
