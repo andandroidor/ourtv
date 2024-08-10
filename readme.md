@@ -43,6 +43,7 @@ xxxx_androidphone.apk 安卓手机版
 
 回应一些xx的污蔑，觉得没有源码就不安全。特此声明，本软件绝对安全，详见以下全球47家安全厂商的测试报告。
 
+
 手机版：
 https://www.virscan.org/report/fd6885d656fed7d63c4db84647855330dd7e994bc04750e3edcd82aae7cc7d1f
 ![phone](./images/phone_scan.jpg)
@@ -52,6 +53,7 @@ TV版：
 https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10e58844afbf3f18b
 ![tv](./images/tv_scan.jpg)
 
+后续版本请自行上传扫描
 
 # 联系
 
