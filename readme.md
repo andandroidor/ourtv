@@ -26,6 +26,11 @@ https://github.com/andandroidor/ourtv/releases/
 
 # 大致操作（计划中）
 
+手机端：
+
+用于交个朋友
+
+
 电视端：
 
 正常观看：
@@ -51,7 +56,6 @@ https://github.com/andandroidor/ourtv/releases/
 @央视频 
 
 @凤凰新闻
-
 
 
 # 声明
