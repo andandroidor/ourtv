@@ -1,7 +1,7 @@
 # 我们的电视
 
 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。
-
+更有节目单回看强大功能秒杀市面上各类XXXPTV
 
 # 下载
 
@@ -10,6 +10,8 @@ https://github.com/andandroidor/ourtv/releases/
 **xxxx_androidtv.apk 电视版**
 
 **xxxx_androidphone.apk 安卓手机版**
+
+请勿安装错误版本
 
 与央视频不兼容，建议关闭各应用市场的自动更新。可能会被央视频覆盖安装。
 
@@ -22,29 +24,34 @@ https://github.com/andandroidor/ourtv/releases/
    adb  install  -r  -f   xxx.apk
 ```
 
+# 大致操作（计划中）
+
+电视端：
+
+正常观看：
+
+1. 上下左右键唤出选台菜单，菜单10秒后自动消失，或返回键消失
+2. 选择分类CCTV 卫视 港澳
+3. 选择频道
+4. 菜单键唤出设置页面，切换清晰度
+
+回看节目：
+
+1. 进入回看：各频道的节目预告(EPG)有回看能力的，会有`回看`字样标识
+2. 回看过程：屏幕右上角会固定`正在回看`标识，左键快退，右键快进，上下键唤出选台菜单
+3. 退出回看：选回看后移动光标选中后返回该频道最新的直播画面，或另外选其他频道即可退出当前的回看节目，或快进到最新直播画面
 
 
-请勿安装错误版本
+# 大感谢
 
-手机版安装之后长这样：
+@感谢lizongying大佬的my-tv https://github.com/lizongying/my-tv
 
-<img src="./images/phone_shot.jpg" alt="phone_shot" style="zoom: 25%;" />
-
-
-
-电视版安装之后长这样：
-
-<img src="./images/tv_shot.jpg" alt="tv_shot" style="zoom: 25%;" />
-
-
-
-# Thanks
-
-@my-tv https://github.com/lizongying/my-tv
+@感谢各位大佬维护的各类直播源 https://m3u.ibert.me/
 
 @央视频 
 
 @凤凰新闻
+
 
 
 # 声明
@@ -57,17 +64,9 @@ https://github.com/andandroidor/ourtv/releases/
 
 # 安全
 
-回应一些xx的污蔑，觉得没有源码就不安全。特此声明，本软件绝对安全，详见以下全球47家安全厂商的测试报告。
+回应一些xx的污蔑，觉得没有源码就不安全。特此声明，本软件绝对安全，详见images文件夹下的全球47家安全厂商的测试报告。
 
-手机版：
-https://www.virscan.org/report/fd6885d656fed7d63c4db84647855330dd7e994bc04750e3edcd82aae7cc7d1f
-<img src="./images/phone_scan.jpg" alt="phone" style="zoom:10%;" />
-
-TV版：
-https://www.virscan.org/report/f0f91694225f5aff243f0bf91f3b464bf5de54222b0d63e10e58844afbf3f18b
-<img src="./images/tv_scan.jpg" alt="tv" style="zoom:10%;" />
-
-后续版本请自行上传扫描
+后续版本请自行上传扫描 https://www.virscan.org
 
 # 联系
 
