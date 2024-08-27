@@ -91,7 +91,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 大龄被裁程序员在线乞讨，感谢各位看官老爷赏口饭吃🤕
 
-![qr](./images/qr.png)
+![qr](./images/qr.jpg)
 
 ### 感谢您的Star 😘😘😘
 
