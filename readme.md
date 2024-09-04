@@ -62,6 +62,9 @@ https://github.com/andandroidor/ourtv/releases/
 
 电报群： https://t.me/+z1BOPITtAmI4ZWZl  新版本将在该群第一时间放出。
 
+<span>
+<img src="./images/tg.jpg" alt="tg" style="width:38%;" />   <img src="./images/wx.jpg" alt="tg" style="width:28%;" /></span>
+
 # 大感谢
 
 @感谢lizongying大佬的my-tv https://github.com/lizongying/my-tv
@@ -94,8 +97,7 @@ https://github.com/andandroidor/ourtv/releases/
 2024.8.1第一次收到网友的红包，很高兴，高兴的不是红包多少，而是感觉自己给别人多多少少带去了些许价值，做的事情多少对他人有点用处。
 大龄被裁程序员在线乞讨，感谢各位看官老爷赏口饭吃，手头阔绰的兄弟可以打赏点，没有也没关系，也丝毫不影响我们加好友，成为朋友!
 
-![qr](./images/qr.jpg)
-![tg](./images/tg.jpg)
+<img src="./images/qr.jpg" alt="qr" style="width:40%;" />
 
 ### 感谢您的Star 😘😘😘
 
