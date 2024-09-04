@@ -98,8 +98,9 @@ https://github.com/andandroidor/ourtv/releases/
 
 大龄被裁程序员在线乞讨，感谢各位看官老爷赏口饭吃，手头阔绰的兄弟可以打赏点，没有也没关系，也丝毫不影响我们加好友，成为朋友!
 
-<img src="./images/qr.jpg" alt="qr" style="width:40%;" />
+<img src="./images/qr.jpg" alt="qr" style="width:60%;" />
 
 ### 感谢您的Star 😘😘😘
 
-[![Star History Chart](https://api.star-history.com/svg?repos=andandroidor/ourtv&type=Date)](https://star-history.com/#andandroidor/ourtv&Date)
+<img src="https://api.star-history.com/svg?repos=andandroidor/ourtv&type=Date" alt="star" style="width:60%;">
+
