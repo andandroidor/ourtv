@@ -84,7 +84,7 @@ https://github.com/andandroidor/ourtv/releases/
 电报群： https://t.me/+z1BOPITtAmI4ZWZl  新版本将在该群第一时间放出。
 
 <span>
-<img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /> 微信暂不可用，请电报联系。</span>
+<img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /> 微信10月9日前暂不可用，请电报联系。</span>
 
 # 大感谢
 
