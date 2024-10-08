@@ -47,7 +47,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-# 电视端（3.2.8之后）版本的小伎俩
+# 电视端（3.2.8之后）版本的小伎俩（2025年1月1日0点之前有效）
 
 注：**无论援助与否均不影响您正常观看电视直播**。
 
@@ -65,10 +65,11 @@ https://github.com/andandroidor/ourtv/releases/
 
 ③ 移除app中所有二维码
 
-④ 5台设备可用。
+④ 5个援助码（或5台设备）可适用该伎俩。
 
+（若未到可用期限而app不可用时，按剩下时间折算退还援助款）
 
-注：**无论援助与否均不影响您正常观看电视直播**。
+**注：无论援助与否，均不影响您正常使用App观看电视直播**。
 
 感谢您的支持和信任。
 
@@ -79,7 +80,7 @@ https://github.com/andandroidor/ourtv/releases/
 电报群： https://t.me/+z1BOPITtAmI4ZWZl  新版本将在该群第一时间放出。
 
 <span>
-<img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /></span>
+<img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /> 微信10月9日前暂不可用，请电报联系。</span>
 
 # 大感谢
 
@@ -101,6 +102,8 @@ https://github.com/andandroidor/ourtv/releases/
 本项目使用的部分代码、图片、文字等资源来源于网络，如有侵权，请联系删除。
 
 本项目下载、安装、观看电视、过程中无任何限制，完全免费，谨防上当受骗。
+
+本项目仅服务于中国大陆及香港、澳门地区，其他区域请结合自身需求下载使用。
 
 # 安全
 
