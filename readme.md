@@ -47,7 +47,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-# 电视端（3.2.8之后）版本的小伎俩（2025年1月1日0点之前有效）
+# 电视端（3.2.8之后）版本的小伎俩
 
 注：**无论援助与否均不影响您正常观看电视直播**。
 
@@ -57,7 +57,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 ② **去除**护眼提醒里的**二维码**；
 
-### 二、累计援助开发者超过99元，可**3年内**（如果未到3年app不可用，可按剩下时间折算退款）：
+### 二、累计援助开发者超过99元，可**3年内** ：
 
 ① 开启遥控器上下键（或频道+-键）换台 
 
@@ -67,7 +67,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 ④ 5个援助码（或5台设备）可适用该伎俩。
 
-（若未到可用期限而app不可用时，按剩下时间折算退还援助款）
+（若未到可用期限而APP不可用时，按剩下时间折算退还援助款）
 
 **注：无论援助与否，均不影响您正常使用App观看电视直播**。
 
@@ -80,7 +80,7 @@ https://github.com/andandroidor/ourtv/releases/
 电报群： https://t.me/+z1BOPITtAmI4ZWZl  新版本将在该群第一时间放出。
 
 <span>
-<img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /> 微信10月9日前暂不可用，请电报联系。</span>
+<img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /></span>
 
 # 大感谢
 
