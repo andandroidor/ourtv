@@ -51,7 +51,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-注：**无论援助与否均不影响您正常观看电视直播**。
+## 注：**无论援助与否均不影响您正常观看电视直播**。
 
 
 
@@ -63,7 +63,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 ① 部分频道的回看功能，可回看当天节目
 
-② **去除**护眼提醒弹窗里的**二维码**                  <u>← 这句话是在说去掉二维码哈！</u>
+② 去除护眼提醒弹窗里的二维码                         <font color='red'> ← 这句话是在说去掉二维码啊 </font>
 
 
 
@@ -77,7 +77,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 ② 开启遥控器上下键（或频道+-键）换台 
 
-③ **禁用**护眼提醒的**弹窗**                                   <u>← 这句话才是去掉弹窗哈！</u>
+③ 禁用护眼提醒的弹窗                                <font color='red'> ← 这句话才是去掉弹窗哈！</font>
 
 ④ 移除app中所有二维码
 
