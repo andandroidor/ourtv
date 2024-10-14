@@ -51,8 +51,9 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-## 注：**无论援助与否均不影响您正常观看电视直播**。
-
+```
+注：无论援助与否，均不影响您正常观看电视直播。
+```
 
 
 
