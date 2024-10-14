@@ -51,9 +51,9 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-```
-注：无论援助与否，均不影响您正常观看电视直播。
-```
+>
+> 注：无论援助与否，均不影响您正常观看电视直播。
+>
 
 
 
@@ -92,17 +92,19 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-**注：无论援助与否，均不影响您正常使用App观看电视直播**。
+>
+> 注：无论援助与否，均不影响您正常观看电视直播。
+>
 
 
 
-【回馈策略2024年11月1日0时将进行调整，感谢关注，恕不另行通知】
+【回馈策略将于2024年11月1日0时进行调整，感谢关注，恕不另行通知】
 
 
 
 # 联系
 
-电报群： https://t.me/+z1BOPITtAmI4ZWZl  新版本将在该群第一时间放出。
+电报群： https://t.me/+z1BOPITtAmI4ZWZl   新版本将在该群第一时间放出。
 
 <span>
 <img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /></span>
