@@ -102,6 +102,44 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
+### 三、回馈生效
+
+
+
+网络连通情况下，援助后，联系开发者，发送援助识别码和援助记录，OurTV会自动拉取回馈数据，并自动生效；
+
+
+
+设置页有“回看功能已对该设备开放”字样，说明回看功能已开启，证明已生效，
+
+或，
+
+设置页面赞赏码消失，证明已生效。
+
+
+
+但网络无法连通时，请打开手动输入服务使回馈生效，步骤如下：
+
+① 打开设置页面，选择"回馈获取"的手动方式：
+
+<img src="./images/thanks_back.jpg" alt="thanks_back" style="zoom:33%;" />
+
+② 使用和电视同一局域网下（一般家庭同一路由器下）的手机，用手机浏览器打开提示网址：
+
+<img src="./images/open_site.jpg" alt="open_site" style="zoom:25%;" />
+
+
+
+③联系开发者获取回馈代码
+
+
+
+④在手机中粘贴并提交，提示成功即生效：
+
+<img src="./images/success.jpg" alt="success" style="zoom: 25%;" />
+
+
+
 # 联系
 
 电报群： https://t.me/+z1BOPITtAmI4ZWZl   新版本将在该群第一时间放出。
