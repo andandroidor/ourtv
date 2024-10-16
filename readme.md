@@ -122,11 +122,11 @@ https://github.com/andandroidor/ourtv/releases/
 
 ① 打开设置页面，选择"回馈获取"的手动方式：
 
-<img src="./images/thanks_back.jpg" alt="thanks_back" style="zoom:33%;" />
+<img src="./images/thanks_back.jpg" alt="thanks_back" style="width:33%;" />
 
 ② 使用和电视同一局域网下（一般家庭同一路由器下）的手机，用手机浏览器打开提示网址：
 
-<img src="./images/open_site.jpg" alt="open_site" style="zoom:25%;" />
+<img src="./images/open_site.jpg" alt="open_site" style="width:25%;" />
 
 
 
