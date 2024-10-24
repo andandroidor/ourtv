@@ -14,6 +14,7 @@ https://github.com/andandroidor/ourtv/releases/
 请勿安装错误版本
 
 与央视频不兼容，建议关闭各应用市场的自动更新。可能会被央视频覆盖安装。
+如需两个app都安装在同一个手机里，请尝试使用Android虚拟机程序，推荐使用 VMOS，在虚拟的手机里安装二者其一即可。
 
 # 安装
 
