@@ -63,13 +63,7 @@ https://github.com/andandroidor/ourtv/releases/
 ### 一、累计援助开发者超过39元（仅累计1次），可**永久**开启：
 
 
-
-① 部分频道的回看功能，可回看当天节目
-
-② 去除护眼提醒弹窗里的二维码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( ← 这句话是在说去掉二维码啊)
-
-
-
+部分频道的回看功能，可回看当天节目（支持回看的节目会有`回看`标记）
 
 
 ### 二、累计援助开发者超过99元，可**1年内**享有 ：
@@ -80,7 +74,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 ② 开启遥控器上下键（或频道+-键）换台 
 
-③ 禁用护眼提醒的弹窗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( ← 这句话才是去掉弹窗哈！)
+③ 禁用护眼提醒的弹窗
 
 ④ 移除app中所有二维码
 
