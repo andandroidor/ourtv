@@ -70,7 +70,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 
 
-① 回看过去3天节目
+① 回看过去6天内的节目
 
 ② 开启遥控器上下键（或频道+-键）换台 
 
@@ -109,11 +109,11 @@ https://github.com/andandroidor/ourtv/releases/
 
 但，网络无法连通时，请打开手动输入服务使回馈生效，步骤如下：
 
-① 打开设置页面，选择"回馈获取"的手动方式：
+① 打开设置页面，"回馈获取"，启动手动输入服务：
 
 <img src="./images/thanks_back.jpg" alt="thanks_back" style="width:50%;" />
 
-② 使用和电视同一局域网下（一般家庭同一路由器下，若路由器不可用，可开启手机热点wifi，不用开流量，电视连手机热点）的手机，用手机浏览器打开提示网址：
+② 使用和电视同一局域网同网段下（一般家庭同一路由器下，若路由器不可用，可开启手机热点wifi，不用开流量，电视连手机热点）的手机，用手机浏览器扫码打开提示网址：
 
 <img src="./images/open_site.jpg" alt="open_site" style="width:25%;" />
 
