@@ -77,9 +77,11 @@ https://github.com/andandroidor/ourtv/releases/
 
 ④ 移除app中所有二维码
 
-⑤ 可手动屏蔽指定频道
+⑤ 屏蔽开机公告
 
-⑥ 可添加5个援助码（或5台设备，以首个援助识别码或设备录入开始3个月内添加完毕，过期失效）。
+⑥ 屏蔽指定频道
+
+⑦ 可添加5个援助码（或5台设备，以首个援助识别码或设备录入开始3个月内添加完毕，过期失效）。
 
 
 ### 三、补充说明
@@ -132,13 +134,13 @@ https://github.com/andandroidor/ourtv/releases/
 
 # 联系
 
-电报群： https://t.me/+z1BOPITtAmI4ZWZl   新版本将在该群第一时间放出。
+电报群： https://t.me/+z1BOPITtAmI4ZWZl   新版本将在该群第一时间放出。 
 
 <span>
 <img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /></span>
 
 
-优先电报联系；
+优先电报联系，仅有电报群，无任何微信群或QQ群，请勿上当受骗；
 
 因微信被封经历，加好友后请查看朋友圈置顶消息，不再主动发起聊天，感谢理解。
 
