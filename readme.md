@@ -140,7 +140,7 @@ https://github.com/andandroidor/ourtv/releases/
 <img src="./images/tg.jpg" alt="tg" style="width:38%;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/wx.jpg" alt="wx" style="width:28%;" /></span>
 
 
-优先电报联系，仅有电报群，无任何微信群或QQ群，请勿上当受骗；
+优先电报联系，仅有电报群，无微信群、QQ群、公众号、抖音号等，请勿上当受骗；
 
 因微信被封经历，加好友后请查看朋友圈置顶消息，不再主动发起聊天，感谢理解。
 
