@@ -55,7 +55,9 @@ https://github.com/andandroidor/ourtv/releases/
 
 # 大感谢
 
-@感谢lizongying大佬的my-tv https://github.com/lizongying/my-tv
+@感谢lizongying大佬的my-tv项目 https://github.com/lizongying/my-tv
+
+@感谢hxh19950701大佬的WebViewTvLive项目 https://github.com/hxh19950701/WebViewTvLive
 
 @感谢各位大佬维护的各类直播源 https://m3u.ibert.me/
 
@@ -86,7 +88,7 @@ https://github.com/andandroidor/ourtv/releases/
 
 ### 感谢您的支持 😘😘😘
 
-2024.8.1第一次收到网友的红包，很高兴，高兴的不是红包多少，而是感觉自己给别人多多少少带去了些许价值，做的事情多少对他人有点用处。
+2024.8.1第一次收到网友的红包投喂，很高兴，高兴的不是红包多少，而是感觉自己给别人多多少少带去了些许价值，做的事情多少对他人有点用处。
 
 大龄被裁程序员在线乞讨，感谢各位看官老爷赏口饭吃，手头阔绰的兄弟可以打赏点，没有也没关系，也丝毫不影响我们加好友，成为朋友!
 
